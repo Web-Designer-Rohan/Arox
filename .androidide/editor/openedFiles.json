@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arox/app/src/main/java/com/arox/ui/components/MessageInput.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1528,
+          "line": 51
+        },
+        "start": {
+          "column": 1,
+          "index": 1528,
+          "line": 51
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Arox/app/src/main/java/com/arox/ui/components/MessageBubble.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2563,
+          "line": 74
+        },
+        "start": {
+          "column": 1,
+          "index": 2563,
+          "line": 74
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Arox/app/src/main/java/com/arox/ui/components/MessageBubble.kt"
+}
